@@ -1,2 +1,8 @@
 This is a sample git file.
 some changes are made to this file.
+Editing the file after adding the file to the remote online repository.
+After editing,we have to stage the file, commit it and then push the file to the online repository.
+git add Sample.txt
+git commit -m "File Updated"
+git push -u origin main
+After every edit or completion of tasks, we will have to repeat the above commands to push the updated version to the online repository so that the other users/collegues can access the code file(s).
